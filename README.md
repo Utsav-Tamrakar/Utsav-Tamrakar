@@ -6,7 +6,7 @@ Git and Github ,Apna college
 <br>
 Author-Shraddha Kapoor
 <br>
-Utsav Tamrakar (80 purwanchal campus learning about git and github)
+Utsav Tamrakar (80 purwanchal campus learning git and github)
 
 
 
