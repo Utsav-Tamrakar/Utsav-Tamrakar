@@ -1,14 +1,4 @@
-This is my first git respiratory.
 Utsav tamrakar
-<br>
-### Hey Utsav now lets begin👋
-Git and Github ,Apna college
-<br>
-Author-Shraddha Kapoor
-<br>
-Utsav Tamrakar (80 purwanchal campus learning git and github)
-
-
 
 <!--
 **Utsav-Tamrakar/Utsav-Tamrakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
